@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=MyApp
+Comment=ghuben
+Exec=/opt/ghub/install/starten.sh
+Icon=/opt/ghub/install/ghublogo.png
+Terminal=false
+Type=Application
+Categories=Utility;

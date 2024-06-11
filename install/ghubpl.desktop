@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=MyApp
+Comment=ghubpl
+Exec=/opt/ghub/install/startpl.sh
+Icon=/opt/ghub/ghublogo.png
+Terminal=false
+Type=Application
+Categories=Utility;
